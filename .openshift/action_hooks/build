@@ -7,7 +7,7 @@
 TEMPLATES_DIR=${OPENSHIFT_REPO_DIR}/.openshift/templates
 INSTALL_DIR=${OPENSHIFT_HOMEDIR}app-root/runtime
 
-TEAMCITY_VERSION="8.0.5"
+TEAMCITY_VERSION="9.0.1"
 TEAMCITY_NAME="TeamCity-${TEAMCITY_VERSION}"
 TEAMCITY_URL="http://download.jetbrains.com/teamcity/${TEAMCITY_NAME}.tar.gz"
 
